@@ -17,4 +17,4 @@ print(nombre_3, "es una loka")
 print(nombre_4, "es una loka")
 print(nombre_5, "es una loka")
 
-#Cambio de nico rama main 18:51
+# puto el que lee atte: abril rama main 18:53
