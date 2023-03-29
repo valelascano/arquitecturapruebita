@@ -17,4 +17,4 @@ print(nombre_3, "es una loka")
 print(nombre_4, "es una loka")
 print(nombre_5, "es una loka")
 
-# Cambio de comentario en rama main Vale 18:56
+#Cambio nico rama main 18:57
