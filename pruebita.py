@@ -8,7 +8,7 @@ nombre_3 = "Valenchu"
 
 nombre_4 = "Santino"
 
-nombre_5 = "Carolaina cambio nico rama main 19:05"
+nombre_5 = "Carolaina cambio abril rama main 19:20"
 
 print(nombre_1, "es una loka")
 print(nombre_2, "es una loka")
